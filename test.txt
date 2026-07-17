@@ -6,4 +6,7 @@ My First Branch Text
 Master текст для тестов конфликтов слияния
 My-first-branch текст для тестов конфликтов слияния
 
+
 Master
+Second
+ 
