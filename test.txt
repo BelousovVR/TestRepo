@@ -2,3 +2,5 @@ Test data
 New test
 
 My First Branch Text
+
+Master текст для тестов конфликтов слияния
